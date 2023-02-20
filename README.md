@@ -1,1 +1,1 @@
-# software-updates
+# ota-updates
